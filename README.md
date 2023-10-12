@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haad
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Java and python.
+- 🌱 I’m a MERN STACK DEVELOPER and also know Java and Python.
 - 💞️ I’m looking to collaborate on Programming.
 - 📫 How to reach me? You can reach me through my email haadsaghir5320@gmail.com
 
